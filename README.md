@@ -7,7 +7,7 @@
 > **Полностью локальный AI-ассистент для программирования на Python. Без интернета, без серверов, без ограничений.**
 
 <p align="center">
-  <img src="screenshot.png" alt="PyGPT Screenshot" width="700">
+  <img src="https://raw.githubusercontent.com/timstr2015-afk/PyGPT/refs/heads/main/Screenshots.png" alt="PyGPT Screenshot" width="700">
 </p>
 
 ---
